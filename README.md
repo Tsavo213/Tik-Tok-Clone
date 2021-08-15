@@ -9,6 +9,6 @@ Using the Intersection Observer API, it checks whether the video element is visi
 
 ## How do I use it?
 
-The live link to the web app is *[here](https://henrybalassiano.github.io/Tik-Tok-Clone/)*
+The live link to the web app is *[here](https://tsavo213.github.io/Tik-Tok-Clone/)*
 
 <img src="https://i.imgur.com/DDToGAD.png"/>
